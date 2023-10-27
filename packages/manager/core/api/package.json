@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@ovh-ux/manager-core-sso": "^0.1.0",
-    "axios": "^1.1.2"
+    "axios": "^1.6.0"
   },
   "devDependencies": {
     "typescript": "^4.3.2"
