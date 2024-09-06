@@ -13,10 +13,10 @@
     "start": "plop"
   },
   "dependencies": {
-    "axios": "^1.1.2",
+    "axios": "^1.6.8",
     "inquirer-autocomplete-prompt": "^3.0.0",
     "minimist": "^1.2.8",
-    "plop": "^3.1.1"
+    "plop": "^4.0.0"
   },
   "preferGlobal": true
 }
