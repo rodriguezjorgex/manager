@@ -19,7 +19,7 @@
   "author": "OVH SAS",
   "main": "./src/index.js",
   "dependencies": {
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.26.10",
     "@babel/generator": "^7.20.3",
     "@babel/parser": "^7.20.3",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
