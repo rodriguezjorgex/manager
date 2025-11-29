@@ -145,7 +145,7 @@
     "u2f-api-polyfill": "^0.4.3",
     "ui-select": "^0.19.8",
     "urijs": "^1.19.1",
-    "validator": "^3.39.0",
+    "validator": "^13.15.22",
     "whatwg-fetch": "^3.5.0"
   },
   "devDependencies": {
