@@ -34,7 +34,7 @@
     "camelcase": "^5.0.0",
     "core-js": "^3.6.5",
     "estree-walker": "^0.6.0",
-    "less": "~3.9.0",
+    "less": "~3.12.0",
     "less-plugin-remcalc": "^0.1.0",
     "lodash": "^4.17.15",
     "magic-string": "^0.25.4",
