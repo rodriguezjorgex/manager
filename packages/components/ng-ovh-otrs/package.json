@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "draggable": "^4.2.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@ovh-ux/component-rollup-config": "^13.0.0",
