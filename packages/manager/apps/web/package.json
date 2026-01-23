@@ -103,7 +103,7 @@
     "jquery.scrollto": "^1.4.13",
     "json3": "^3.2.5",
     "jsurl": "^0.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "matchmedia": "^0.1.2",
     "matchmedia-ng": "^1.0.8",
     "moment": "^2.24.0",
