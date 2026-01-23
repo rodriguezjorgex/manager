@@ -21,7 +21,7 @@
     "highlight.js": "^11.6.0",
     "ipaddr.js": "^1.9.1",
     "jsurl": "^0.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "tweetnacl-util": "^0.15.0",
     "urijs": "^1.19.1",
     "validator": "^13.7.0",
