@@ -67,7 +67,7 @@
     "flatpickr": "^4.6.3",
     "font-awesome": "^4.0.0",
     "jquery-ui": "^1.12.1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.23",
     "matchmedia-ng": "^1.0.8",
     "oclazyload": "^1.1.0",
     "ovh-api-services": "^17.0.0",
