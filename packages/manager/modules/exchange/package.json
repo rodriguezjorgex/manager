@@ -14,7 +14,7 @@
   "dependencies": {
     "ckeditor": "^4.7.2",
     "filesize": "^3.6.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "punycode": "^1.4.1"
   },
   "peerDependencies": {
