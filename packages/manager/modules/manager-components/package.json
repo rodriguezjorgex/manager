@@ -15,7 +15,7 @@
   "dependencies": {
     "bootstrap4": "twbs/bootstrap#v4.0.0",
     "chart.js": "^2.8.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "@ovh-ux/ng-translate-async-loader": "^2.1.4",
