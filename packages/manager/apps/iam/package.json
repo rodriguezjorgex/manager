@@ -42,7 +42,7 @@
     "bootstrap4": "twbs/bootstrap#v4.0.0",
     "core-js": "^3.6.5",
     "flatpickr": "^4.6.3",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.23",
     "moment": "^2.24.0",
     "oclazyload": "^1.1.0",
     "ovh-ui-kit-bs": "^4.2.0",
