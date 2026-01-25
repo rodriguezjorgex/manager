@@ -23,7 +23,7 @@
   "dependencies": {
     "@ovh-ux/manager-config": "^7.1.1",
     "flag-icon-css": "^3.4.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@ovh-ux/component-rollup-config": "^13.0.0"
