@@ -14,7 +14,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jsurl": "^0.1.4",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@ovh-ux/component-rollup-config": "^13.0.0"
