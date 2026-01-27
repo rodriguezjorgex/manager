@@ -15,7 +15,7 @@
     "@ovh-ux/manager-config": "^7.1.1",
     "bootstrap4": "twbs/bootstrap#v4.0.0",
     "jsurl": "^0.1.5",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.23"
   },
   "peerDependencies": {
     "@ovh-ux/manager-advices": "^1.0.0",
