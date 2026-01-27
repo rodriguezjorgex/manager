@@ -16,7 +16,7 @@
     "bootstrap4": "twbs/bootstrap#v4.0.0",
     "flag-icon-css": "~0.8.5",
     "font-awesome": "^4.0.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "@ovh-ux/manager-advices": "^0.0.0 || ^1.0.0",
