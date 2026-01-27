@@ -15,7 +15,7 @@
     "@ovh-ux/url-builder": "^1.1.1",
     "bootstrap4": "twbs/bootstrap#v4.0.0",
     "flag-icon-css": "~0.8.5",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "@ovh-ux/manager-billing-components": "^2.0.0 || ^3.0.0",
