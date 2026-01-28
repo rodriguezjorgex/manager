@@ -37,6 +37,6 @@
   "dependencies": {
     "@ovh-ux/manager-config": "^7.1.1",
     "@types/lodash-es": "^4.17.5",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.23"
   }
 }
