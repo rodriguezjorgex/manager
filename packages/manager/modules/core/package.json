@@ -29,7 +29,7 @@
   "dependencies": {
     "@ovh-ux/ng-translate-async-loader": "^2.1.7",
     "@ovh-ux/url-builder": "^1.1.1",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.23"
   },
   "devDependencies": {
     "@ovh-ux/component-rollup-config": "^13.0.0",
