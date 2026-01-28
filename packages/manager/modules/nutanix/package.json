@@ -15,7 +15,7 @@
     "@ovh-ux/manager-models": "^1.14.8",
     "bootstrap4": "twbs/bootstrap#v4.0.0",
     "ipaddr.js": "^1.9.1",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "@ovh-ux/manager-billing-components": "^2.0.0 || ^3.0.0",
