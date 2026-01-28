@@ -46,7 +46,7 @@
     "less": "~3.9.0",
     "less-loader": "^11.1.0",
     "less-plugin-remcalc": "^0.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mini-css-extract-plugin": "^2.6.1",
     "raw-loader": "^4.0.2",
     "regenerator-runtime": "^0.13.10",
