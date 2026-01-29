@@ -32,6 +32,6 @@
   "dependencies": {
     "@ovh-ux/ovh-reket": "^2.0.1",
     "@ovh-ux/request-tagger": "^0.1.1",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.23"
   }
 }
